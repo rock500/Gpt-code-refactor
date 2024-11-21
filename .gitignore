@@ -1,0 +1,11 @@
+# Python cached sources
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv*/
+venv*/
+.venv/
+venv/
+
+api_key.txt
